@@ -46,7 +46,7 @@ ddsmoothmenu.init({
 	<div id="site_title"><h1><a href="#">Red Curve</a></h1></div>
     <div id="tooplate_menu" class="ddsmoothmenu">
                 <ul>
-                    <li><a href="index.html" class="selected">Home</a></li>
+                    <li><a href="index.md" class="selected">Home</a></li>
                     <li><a href="about.html">About</a>
                       	<ul>
                             <li><a href="#">Sub menu 1</a></li>
